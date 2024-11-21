@@ -1,3 +1,7 @@
+/*
+Ultrasonic sensor working with buzzer and LED. When an object is close to the sensor the buzzer and LED will activate in sync.
+*/
+
 // Define LED, buzzer, and ultrasonic sensor pins
 const int RLed = 4;       // Red LED pin
 const int GLed = 2;       // Green LED pin
