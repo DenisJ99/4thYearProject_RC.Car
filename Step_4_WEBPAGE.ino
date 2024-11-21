@@ -1,3 +1,7 @@
+/*
+Added simple webpage to see if the esp32 would connect to the wifi with no problems. On the webpage the user will be able to turn LED on and off. When the ultrasonic sensor is being activated the user will now be able to identify which sensor is being activated.
+*/
+
 #include <WiFi.h>
 
 // WiFi credentials
