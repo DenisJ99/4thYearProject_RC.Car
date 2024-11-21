@@ -1,3 +1,7 @@
+/*
+Same code as step 4 just changed the LED and ultrasonic pins to make it easier to build.
+*/
+
 #include <WiFi.h>
 
 // WiFi credentials
