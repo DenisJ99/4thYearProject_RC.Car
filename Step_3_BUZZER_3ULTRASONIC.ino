@@ -1,3 +1,7 @@
+/*
+Simular to step 2 just with 3 ultrasonic sensors instead of 2.
+*/
+
 // Define LED, buzzer, and ultrasonic sensor pins
 const int RLed = 4;       // Red LED pin
 const int GLed = 2;       // Green LED pin
