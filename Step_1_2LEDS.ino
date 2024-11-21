@@ -1,3 +1,8 @@
+/*
+Sample code on LED's to check if they are working correctly
+*/ 
+
+
 // Define the LED pin
 const int RLed = 4;
 const int GLed = 23;
