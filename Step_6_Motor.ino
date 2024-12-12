@@ -1,3 +1,7 @@
+/* 
+Added a motor. Code for single motor
+*/
+
 #define EN1_PIN  34
 #define IN1_PIN  35
 #define IN2_PIN  32
