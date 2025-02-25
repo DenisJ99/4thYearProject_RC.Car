@@ -1,3 +1,7 @@
+/*
+Buttons added onto the webpage to control the motors from your computer
+*/
+
 #include <WiFi.h>
 
 // WiFi credentials
