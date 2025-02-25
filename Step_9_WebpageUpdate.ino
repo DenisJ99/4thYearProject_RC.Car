@@ -1,3 +1,6 @@
+/*
+Updated webpage to make it more visually appealing. Small change.
+*/
 #include <WiFi.h>
 
 // WiFi credentials
