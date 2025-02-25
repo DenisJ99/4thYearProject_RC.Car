@@ -1,4 +1,6 @@
-
+/*
+Simular code to the last just with 2 working motors
+*/
 #define EN1_PIN  35
 #define IN1_PIN  32
 #define IN2_PIN  33
